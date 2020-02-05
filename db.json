@@ -1,9 +1,9 @@
 
 {
-  "otp": {
+  "otp": [{
     "sucess":{
       "status":"sent"
     }
-  }
+  }]
 }
 
