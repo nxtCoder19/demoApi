@@ -1,7 +1,9 @@
 
 {
-  "sucess":{
-  "status":"sent"
+  "otp": {
+    "sucess":{
+      "status":"sent"
+    }
   }
 }
 
